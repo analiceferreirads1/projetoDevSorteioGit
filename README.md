@@ -1,6 +1,6 @@
-# Projeto Dev Sorteio 🎲
+# 🎲 Projeto Dev Sorteio
 
-Este é um projeto simples desenvolvido com **HTML**, **CSS** e **JavaScript puro** para sortear um número aleatório entre dois valores informados pelo usuário.
+Este é um projeto simples criado com **HTML**, **CSS** e **JavaScript puro**, que sorteia um número aleatório entre dois valores informados pelo usuário.
 
 ---
 
@@ -12,11 +12,11 @@ Este é um projeto simples desenvolvido com **HTML**, **CSS** e **JavaScript pur
 
 ## 🧠 Funcionalidades
 
-- Campo para digitar o número mínimo e máximo
-- Geração de número aleatório
-- Resultado animado
-- Efeito de confetes
-- Som de vitória (caso funcione no navegador)
+- Inserção de número mínimo e máximo
+- Sorteio de número aleatório
+- Exibição animada do resultado
+- Efeito visual com confetes 🎉
+- Efeito sonoro de vitória (se suportado pelo navegador)
 
 ---
 
@@ -32,16 +32,7 @@ Este é um projeto simples desenvolvido com **HTML**, **CSS** e **JavaScript pur
 
 ## 🚀 Como usar este projeto
 
-1. Clone este repositório:
-   ```
-   git clone https://github.com/analiceferreirads1/projetoDevSorteioGit.git
+Clone este repositório:
 
-   projetoDevSorteioGit/
-├── assets/
-│   └── sort-1.png
-├── sounds/
-│   └── win-sound.mp3
-├── styles.css
-├── scripts.js
-└── index.html```
-
+```bash
+git clone https://github.com/analiceferreirads1/projetoDevSorteioGit.git
