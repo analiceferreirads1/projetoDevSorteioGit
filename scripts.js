@@ -16,7 +16,6 @@ const winAudio = new Audio('./sounds/win-sound.mp3');
       resultElement.textContent = `Resultado: ${result}`;
   
       resultElement.style.animation = "none";
-      void resultElement.offsetWidth;
       resultElement.style.animation = "pulseWin 0.6s ease-in-out";
   
       winAudio.play();
